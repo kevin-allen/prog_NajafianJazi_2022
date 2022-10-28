@@ -2,7 +2,7 @@
 
 Code used in a manuscript by Najafian Jazi and colleagues.
 
-The starting point for the analysis is in `notebooks/main.ipynb`
+The starting point for the analysis is in the `main.ipynb` located in the `behavior_only` and `electrophys_behavior` directories.
 
 
 ## Python Environment
