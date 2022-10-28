@@ -1,6 +1,8 @@
 # prog_NajafianJazi_2022
 
-Code used in a manuscript by Najafian Jazi and colleagues
+Code used in a manuscript by Najafian Jazi and colleagues.
+
+The starting point for the analysis is in `notebooks/main.ipynb`
 
 
 ## Python Environment
